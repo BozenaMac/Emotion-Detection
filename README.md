@@ -30,7 +30,10 @@ The model was trained on a dataset created by combining and preprocessing severa
 
 ## Collaboration
 
-This project was a joint effort by Paulina Stępniewska, Dominik Charasim, Adrian Biernacki, and me.
+- [Paulina Stepniewska](https://github.com/PaulinaStepniewska)
+- [Łukasz Łys](https://github.com/LukaszLys)
+- [Charasim](https://github.com/charasim)
+- and me.
 
 ---
 
