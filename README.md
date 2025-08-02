@@ -10,8 +10,7 @@ This project implements a Convolutional Neural Network (CNN) to classify facial 
 - Data augmentation for robust training  
 - Handling class imbalance with computed class weights  
 - Training of a deep CNN model with multiple convolutional blocks  
-- Model evaluation with accuracy, classification report, and confusion matrix  
-- Model saved as `emotion_model_final.h5`  
+- Model evaluation with accuracy, classification report, and confusion matrix    
 - **Streamlit web app for uploading face images**  
 - **Automatic face detection in uploaded images using Haar cascades**  
 - **Emotion classification on detected faces with confidence scores**  
@@ -39,7 +38,7 @@ The model was trained on a dataset created by combining and preprocessing severa
 
 ## Business Case
 
-The business case for this project is to use it in conjunction with face ID technology. When unlocking a phone, the model reads the user's emotion, and ChatGPT provides an appropriate suggestion, for example, telling a joke if sadness is detected—to improve user's mood.
+The business case for this project is to use it in conjunction with face ID technology. When unlocking a phone, the model reads the user's emotion, and ChatGPT provides an appropriate suggestion, for example, telling a joke if sadness is detected—to improve the user's mood.
 
 ---
 
