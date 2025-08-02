@@ -10,7 +10,7 @@ import seaborn as sns
 import time
 
 # ---------- konfiguracja ---------- #
-MODEL_PATH = "paulina_nowy_set_dodany_lime_confus_matrix_dla_test.h5"
+MODEL_PATH = "model_sequential_final.h5"
 INPUT_SIZE = (75, 75)
 
 class_labels = {
@@ -206,3 +206,4 @@ if uploaded_file:
 
 st.markdown("---")
 st.caption("© 2025 Emotion Detector App by Neuronauci")
+
